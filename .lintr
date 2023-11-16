@@ -1,2 +1,0 @@
-linters: linters_with_defaults(assignment_linter=assignment_linter(allow_right_assign = TRUE)) # see vignette("lintr")
-encoding: "UTF-8"
